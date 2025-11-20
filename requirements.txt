@@ -1,7 +1,1 @@
 streamlit
-5.  **Deploy on Streamlit Cloud**:
-* Go to `share.streamlit.io`.
-* Sign in with your GitHub account.
-* Click **"New app"**.
-* Select your `math-quiz-app` repository.
-* Click **"Deploy"**.
